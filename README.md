@@ -18,4 +18,3 @@ Sections:
 - [ ] 6. Interfaces
 - [ ] 6. Interfaces
 - [ ] 7. Channels and Go Routines
-- [ ] 8. Extras
