@@ -13,7 +13,7 @@ Sections:
 - [x] 1. Getting Started
 - [x] 2. A Simple Start
 - [x] 3. Deeper into Go
-    - 21. Slice Range Syntax
+    - 22. Multiple Return Types
 - [ ] 4. Organizing Data With Structs
 - [ ] 5. Maps
 - [ ] 6. Interfaces
