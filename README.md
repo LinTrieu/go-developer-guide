@@ -14,8 +14,8 @@ Sections:
 - [x] 2. A Simple Start
 - [x] 3. Deeper into Go
         
-        27. Reading From the Hard Drive
-        28. Error Handling
+        27. Reading From the Hard Drive - done
+        28. Error Handling - done
         29. Shuffling a Deck
         30. Random Number Generation
         31. Testing With Go
