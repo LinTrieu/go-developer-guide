@@ -13,6 +13,7 @@ Sections:
 - [x] 1. Getting Started
 - [x] 2. A Simple Start
 - [x] 3. Deeper into Go
+        
         - 27. Reading From the Hard Drive
 - [ ] 4. Organizing Data With Structs
 - [ ] 5. Maps
