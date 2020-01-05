@@ -16,7 +16,7 @@ Sections:
         
         27. Reading From the Hard Drive - done
         28. Error Handling - done
-        29. Shuffling a Deck
+        29. Shuffling a Deck - done
         30. Random Number Generation
         31. Testing With Go
         32. Writing Useful Tests
