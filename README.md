@@ -27,15 +27,15 @@ go test
         31. Testing With Go ✅
         32. Writing Useful Tests ✅
         33. Asserting Elements in a Slice ✅
-        34. Testing File IO
-        35. Project Review - Cards 
+        34. Testing File IO ✅
+        35. Project Review - Cards ✅ 
 
 - [ ] 4. Organizing Data With Structs
     
-        36. Structs in Go
-        37. Defining Structs
-        38. Declaring Structs
-        39. Updating Struct Values
+        36. Structs in Go ✅ 
+        37. Defining Structs ✅ 
+        38. Declaring Structs ✅ 
+        39. Updating Struct Values ✅ 
         40. Embedding Structs
         41. Structs with Receiver Functions
         42. Pass By Value
@@ -50,8 +50,7 @@ go test
         48. What's a Map?
         49. Manipulating Maps
         50. Iterating Over Maps
-        51. Differences Between Maps and
-        Structs
+        51. Differences Between Maps and Structs
     
 - [ ] 6. Interfaces
     
