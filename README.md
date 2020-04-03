@@ -36,8 +36,8 @@ go test
         37. Defining Structs ✅ 
         38. Declaring Structs ✅ 
         39. Updating Struct Values ✅ 
-        40. Embedding Structs
-        41. Structs with Receiver Functions
+        40. Embedding Structs ✅ 
+        41. Structs with Receiver Functions ✅ 
         42. Pass By Value
         43. Structs with Pointers
         44. Pointer Operations
