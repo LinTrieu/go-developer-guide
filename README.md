@@ -6,7 +6,10 @@ Master the fundamentals and advanced features of the Go Programming Language (Go
 
 https://www.udemy.com/course/go-the-complete-developers-guide
 
-```go run main.go deck.go```
+````
+go run main.go deck.go
+go test
+````
 
 ## Progress
 
