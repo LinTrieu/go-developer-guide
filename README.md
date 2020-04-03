@@ -88,7 +88,7 @@ go test
         80. Function Literals
         81. Channels Gotcha!
     
-[ ] 8. Extras
+- [ ] 8. Extras
 
        82. Bonus!
     
