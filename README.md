@@ -30,24 +30,24 @@ go test
         34. Testing File IO ✅
         35. Project Review - Cards ✅ 
 
-- [ ] 4. Organizing Data With Structs
+- [x] 4. Organizing Data With Structs
     
-        36. Structs in Go ✅ 
-        37. Defining Structs ✅ 
-        38. Declaring Structs ✅ 
+        36. Structs in Go ✅
+        37. Defining Structs ✅
+        38. Declaring Structs ✅
         39. Updating Struct Values ✅ 
-        40. Embedding Structs ✅ 
+        40. Embedding Structs ✅
         41. Structs with Receiver Functions ✅ 
-        42. Pass By Value ✅ 
-        43. Structs with Pointers ✅ 
-        44. Pointer Operations
-        45. Pointer Shortcut
-        46. Gotchas With Pointers
-        47. Reference vs Value Types
+        42. Pass By Value ✅
+        43. Structs with Pointers ✅
+        44. Pointer Operations ✅
+        45. Pointer Shortcut ✅
+        46. Gotchas With Pointers ✅
+        47. Reference Types vs Value Types ✅
 
 - [ ] 5. Maps
 
-        48. What's a Map?
+        48. What's a Map? ✅
         49. Manipulating Maps
         50. Iterating Over Maps
         51. Differences Between Maps and Structs
