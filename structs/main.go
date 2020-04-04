@@ -23,7 +23,7 @@ func main() {
 
 	// approach 2
 	george := person{firstName: "George", lastName: "Giant"}
-	fmt.Printf("%+v", george)
+	fmt.Printf("%+v \n", george)
 
 	//approach 3∏
 	var alex person
@@ -31,7 +31,7 @@ func main() {
 	alex.lastName = "Anderson"
 	alex.contact.email = "alex@gmail.com"
 	alex.contact.zipCode = 1234
-	fmt.Printf("%+v", alex)
+	fmt.Printf("%+v \n", alex)
 
     //approach 4
     jim := person{
@@ -42,14 +42,16 @@ func main() {
             zipCode: 1234,
         },
     }
-   jim.updateName("Jimmy")
+
+   jimPointer := &jim
+   jimPointer.updateName("Jimmy")
    jim.print()
 }
 
-func (p person) updateName(newFirstName string) {
-    p.firstName = newFirstName
+func (pointerToPerson *person) updateName(newFirstName string) {
+    (*pointerToPerson).firstName = newFirstName
 }
 
 func (p person) print() {
-    fmt.Printf("%+v", p)
+    fmt.Printf("%+v \n", p)
 }
