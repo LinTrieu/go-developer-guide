@@ -48,7 +48,7 @@ go test
 - [ ] 5. Maps
 
         48. What's a Map? ✅
-        49. Manipulating Maps
+        49. Manipulating Maps ✅
         50. Iterating Over Maps
         51. Differences Between Maps and Structs
     
