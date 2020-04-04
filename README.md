@@ -38,8 +38,8 @@ go test
         39. Updating Struct Values ✅ 
         40. Embedding Structs ✅ 
         41. Structs with Receiver Functions ✅ 
-        42. Pass By Value
-        43. Structs with Pointers
+        42. Pass By Value ✅ 
+        43. Structs with Pointers ✅ 
         44. Pointer Operations
         45. Pointer Shortcut
         46. Gotchas With Pointers
