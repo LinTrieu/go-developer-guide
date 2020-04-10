@@ -33,24 +33,24 @@ func main() {
 	alex.contact.zipCode = 1234
 	fmt.Printf("%+v \n", alex)
 
-    //approach 4
-    jim := person{
-        firstName: "Jim",
-        lastName: "Smith",
-        contact: contactInfo{
-            email: "jim@gmail.com",
-            zipCode: 1234,
-        },
-    }
+	//approach 4
+	jim := person{
+		firstName: "Jim",
+		lastName:  "Smith",
+		contact: contactInfo{
+			email:   "jim@gmail.com",
+			zipCode: 1234,
+		},
+	}
 
-   jim.updateName("Jimmy")
-   jim.print()
+	jim.updateName("Jimmy")
+	jim.print()
 }
 
 func (pointerToPerson *person) updateName(newFirstName string) {
-    (*pointerToPerson).firstName = newFirstName
+	(*pointerToPerson).firstName = newFirstName
 }
 
 func (p person) print() {
-    fmt.Printf("%+v \n", p)
+	fmt.Printf("%+v \n", p)
 }

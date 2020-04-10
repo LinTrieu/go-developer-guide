@@ -45,12 +45,12 @@ go test
         46. Gotchas With Pointers ✅
         47. Reference Types vs Value Types ✅
 
-- [ ] 5. Maps
+- [x] 5. Maps
 
         48. What's a Map? ✅
         49. Manipulating Maps ✅
-        50. Iterating Over Maps
-        51. Differences Between Maps and Structs
+        50. Iterating Over Maps ✅
+        51. Differences Between Maps and Structs ✅
     
 - [ ] 6. Interfaces
     
