@@ -55,7 +55,7 @@ go test
 - [ ] 6. Interfaces
     
         52. Purpose of Interfaces ✅
-        53. Problems Without Interfaces
+        53. Problems Without Interfaces ✅
         54. Interfaces in Practice
         55. Rules of Interfaces
         56. Extra Interface Notes
