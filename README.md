@@ -59,7 +59,7 @@ go test
         54. Interfaces in Practice ✅
         55. Rules of Interfaces ✅
         56. Extra Interface Notes ✅
-        57. The HTTP Package
+        57. The HTTP Package ✅
         58. Reading the Docs
         59. More Interface Syntax
         60. Interface Review
