@@ -61,7 +61,7 @@ go test
         56. Extra Interface Notes ✅
         57. The HTTP Package ✅
         58. Reading the Docs ✅
-        59. More Interface Syntax
+        59. More Interface Syntax ✅
         60. Interface Review
         61. The Reader Interface
         62. More on the Reader Interface
