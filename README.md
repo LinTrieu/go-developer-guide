@@ -62,8 +62,8 @@ go test
         57. The HTTP Package ✅
         58. Reading the Docs ✅
         59. More Interface Syntax ✅
-        60. Interface Review
-        61. The Reader Interface
+        60. Interface Review ✅
+        61. The Reader Interface ✅
         62. More on the Reader Interface
         63. Working with the Read Function
         64. The Writer Interface
