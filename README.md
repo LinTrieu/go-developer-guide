@@ -64,8 +64,8 @@ go test
         59. More Interface Syntax ✅
         60. Interface Review ✅
         61. The Reader Interface ✅
-        62. More on the Reader Interface
-        63. Working with the Read Function
+        62. More on the Reader Interface ✅
+        63. Working with the Read Function ✅
         64. The Writer Interface
         65. The io.Copy Function
         66. The Implementation of io.Copy
