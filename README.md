@@ -67,7 +67,7 @@ go test
         62. More on the Reader Interface ✅
         63. Working with the Read Function ✅
         64. The Writer Interface ✅
-        65. The io.Copy Function
+        65. The io.Copy Function ✅
         66. The Implementation of io.Copy
         67. A Custom Writer
 
