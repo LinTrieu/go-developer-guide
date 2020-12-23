@@ -52,7 +52,7 @@ go test
         50. Iterating Over Maps ✅
         51. Differences Between Maps and Structs ✅
     
-- [ ] 6. Interfaces
+- [x] 6. Interfaces
     
         52. Purpose of Interfaces ✅
         53. Problems Without Interfaces ✅
@@ -69,7 +69,7 @@ go test
         64. The Writer Interface ✅
         65. The io.Copy Function ✅
         66. The Implementation of io.Copy ✅
-        67. A Custom Writer
+        67. A Custom Writer ✅
 
 - [ ] 7. Channels and Go Routines
     
