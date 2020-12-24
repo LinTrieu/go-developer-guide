@@ -75,8 +75,8 @@ go test
     
         68. Website Status Checker ✅
         69. Printing Site Status ✅
-        70. Serial Link Checking ⬅️ ⬅️ ⬅️
-        71. Go Routines
+        70. Serial Link Checking ✅
+        71. Go Routines ⬅️ ⬅️ ⬅️
         72. Theory of Go Routines
         73. Channels
         74. Channel Implementation
