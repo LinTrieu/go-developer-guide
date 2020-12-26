@@ -20,27 +20,33 @@ func main() {
 		go checkLink(link, c)
 	}
 
-	// exercise 76
-	for i := 0; i < len(links); i++ {
-		fmt.Println(<-c)
+	// exercise 78
+	for l := range c {
+		go checkLink(l, c)
 	}
 
+	// exercise 77
+	// for {
+	// 	go checkLink(<-c, c)
+	// }
+
+	// exercise 76
+	// for i := 0; i < len(links); i++ {
+	// fmt.Println(<-c)
+	// }
+
 	// exercise 75
-	// fmt.Println(<-c)
-	// fmt.Println(<-c)
-	// fmt.Println(<-c)
-	// fmt.Println(<-c)
-	// fmt.Println(<-c)
+	// fmt.Println(<-c) x repeat 5 times
 }
 
 func checkLink(link string, c chan string) {
 	_, err := http.Get(link)
 	if err != nil {
 		fmt.Println(link, "might be down!")
-		c <- "Might be down I think"
+		c <- link
 		return
 	}
 
 	fmt.Println(link, "is up!")
-	c <- "Yep, it's up"
+	c <- link
 }
