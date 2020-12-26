@@ -81,14 +81,14 @@ go test
         73. Channels ✅
         74. Channel Implementation ✅
         75. Blocking Channels ✅
-        76. Receiving Messages ⬅️ ⬅️ ⬅️
-        77. Repeating Routines
-        78. Alternative Loop Syntax
-        79. Sleeping a Routine
-        80. Function Literals
-        81. Channels Gotcha!
+        76. Receiving Messages ✅
+        77. Repeating Routines ⬅️ ⬅️ ⬅️
+        78. Alternative Loop Syntax ⬅️ ⬅️ ⬅️
+        79. Sleeping a Routine ⬅️ ⬅️ ⬅️
+        80. Function Literals ⬅️ ⬅️ ⬅️
+        81. Channels Gotcha! ⬅️ ⬅️ ⬅️
     
 - [ ] 8. Extras
 
-       82. Bonus!
+       82. Bonus! ⬅️ ⬅️ ⬅️
     
