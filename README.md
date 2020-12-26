@@ -78,8 +78,8 @@ go test
         70. Serial Link Checking ✅
         71. Go Routines ✅
         72. Theory of Go Routines ✅
-        73. Channels ⬅️ ⬅️ ⬅️
-        74. Channel Implementation
+        73. Channels ✅
+        74. Channel Implementation ⬅️ ⬅️ ⬅️
         75. Blocking Channels
         76. Receiving Messages
         77. Repeating Routines
