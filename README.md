@@ -85,7 +85,7 @@ go test
         77. Repeating Routines ✅
         78. Alternative Loop Syntax ✅
         79. Sleeping a Routine ✅
-        80. Function Literals ⬅️ ⬅️ ⬅️
+        80. Function Literals ✅
         81. Channels Gotcha! ⬅️ ⬅️ ⬅️
     
 - [ ] 8. Extras

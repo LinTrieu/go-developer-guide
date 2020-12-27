@@ -21,11 +21,19 @@ func main() {
 		go checkLink(link, c)
 	}
 
-	// exercise 78
+	// exercise 80
 	for l := range c {
-		time.Sleep(5 * time.Second)
-		go checkLink(l, c)
+		go func() {
+			time.Sleep(5 * time.Second)
+			checkLink(l, c)
+		}()
 	}
+
+	// exercise 78
+	// for l := range c {
+	// time.Sleep(5 * time.Second)
+	// go checkLink(l, c)
+	// }
 
 	// exercise 77
 	// for {
