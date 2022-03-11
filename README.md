@@ -1,9 +1,9 @@
 # Go: The Complete Developers' Guide
 
 Worked exercises from the course Go: The Complete Developer's Guide. 
+Completed: December 2020 ✅ 🎉
 
 Master the fundamentals and advanced features of the Go Programming Language (Golang)
-
 https://www.udemy.com/course/go-the-complete-developers-guide
 
 ````
@@ -91,6 +91,3 @@ go test
 - [x] 8. Extras
 
        82. Bonus! ✅
-
-
-Completed: Dec-2020 🎉
