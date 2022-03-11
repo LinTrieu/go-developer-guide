@@ -1,6 +1,7 @@
 # Go: The Complete Developers' Guide
 
 Worked exercises from the course Go: The Complete Developer's Guide. 
+
 Completed: December 2020 ✅ 🎉
 
 Master the fundamentals and advanced features of the Go Programming Language (Golang)
